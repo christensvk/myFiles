@@ -7,7 +7,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -444,7 +444,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -667,7 +667,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -1104,7 +1104,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -1327,7 +1327,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -1764,7 +1764,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -1987,7 +1987,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -2424,7 +2424,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -2647,7 +2647,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -3084,7 +3084,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -3307,7 +3307,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -3744,7 +3744,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -3967,7 +3967,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -4404,7 +4404,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -4627,7 +4627,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -5064,7 +5064,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -5287,7 +5287,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -5724,7 +5724,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -5947,7 +5947,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -6384,7 +6384,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -6607,7 +6607,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -7044,7 +7044,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -7267,7 +7267,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -7704,7 +7704,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -7927,7 +7927,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -8364,7 +8364,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -8587,7 +8587,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -9024,7 +9024,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -9247,7 +9247,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -9684,7 +9684,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -9907,7 +9907,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -10344,7 +10344,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -10567,7 +10567,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -11004,7 +11004,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -11227,7 +11227,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -11664,7 +11664,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -11887,7 +11887,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -12324,7 +12324,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -12547,7 +12547,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -12984,7 +12984,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -13207,7 +13207,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -13644,7 +13644,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -13867,7 +13867,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -14304,7 +14304,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -14527,7 +14527,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -14964,7 +14964,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -15187,7 +15187,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -15624,7 +15624,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -15847,7 +15847,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -16284,7 +16284,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -16507,7 +16507,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -16944,7 +16944,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -17167,7 +17167,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -17604,7 +17604,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -17827,7 +17827,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -18264,7 +18264,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -18487,7 +18487,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -18924,7 +18924,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -19147,7 +19147,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -19584,7 +19584,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -19807,7 +19807,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -20244,7 +20244,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -20467,7 +20467,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -20904,7 +20904,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -21127,7 +21127,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -21564,7 +21564,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -21787,7 +21787,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -22224,7 +22224,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -22447,7 +22447,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -22884,7 +22884,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -23107,7 +23107,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -23544,7 +23544,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -23767,7 +23767,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -24204,7 +24204,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -24427,7 +24427,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -24864,7 +24864,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -25087,7 +25087,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -25524,7 +25524,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -25747,7 +25747,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -26184,7 +26184,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -26407,7 +26407,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -26844,7 +26844,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -27067,7 +27067,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -27504,7 +27504,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -27727,7 +27727,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -28164,7 +28164,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -28387,7 +28387,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -28824,7 +28824,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -29047,7 +29047,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -29484,7 +29484,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -29707,7 +29707,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -30144,7 +30144,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -30367,7 +30367,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -30804,7 +30804,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -31027,7 +31027,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -31464,7 +31464,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -31687,7 +31687,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -32124,7 +32124,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -32347,7 +32347,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -32784,7 +32784,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -33007,7 +33007,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -33444,7 +33444,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -33667,7 +33667,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -34104,7 +34104,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -34327,7 +34327,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -34764,7 +34764,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -34987,7 +34987,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -35424,7 +35424,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -35647,7 +35647,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -36084,7 +36084,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -36307,7 +36307,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -36744,7 +36744,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -36967,7 +36967,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -37404,7 +37404,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -37627,7 +37627,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -38064,7 +38064,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -38287,7 +38287,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -38724,7 +38724,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -38947,7 +38947,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -39384,7 +39384,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -39607,7 +39607,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -40044,7 +40044,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -40267,7 +40267,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -40704,7 +40704,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -40927,7 +40927,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -41364,7 +41364,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -41587,7 +41587,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -42024,7 +42024,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -42247,7 +42247,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -42684,7 +42684,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -42907,7 +42907,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -43344,7 +43344,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -43567,7 +43567,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -44004,7 +44004,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -44227,7 +44227,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -44664,7 +44664,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -44887,7 +44887,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -45324,7 +45324,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -45547,7 +45547,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -45984,7 +45984,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -46207,7 +46207,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -46644,7 +46644,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -46867,7 +46867,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -47304,7 +47304,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -47527,7 +47527,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -47964,7 +47964,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -48187,7 +48187,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -48624,7 +48624,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -48847,7 +48847,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -49284,7 +49284,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -49507,7 +49507,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -49944,7 +49944,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -50167,7 +50167,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -50604,7 +50604,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -50827,7 +50827,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -51264,7 +51264,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -51487,7 +51487,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -51924,7 +51924,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -52147,7 +52147,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -52584,7 +52584,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -52807,7 +52807,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -53244,7 +53244,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -53467,7 +53467,7 @@
 		"niveau":"Master",
 		"nom":"Méthodes Informatiques Appliquées à la Gestion des Entreprises",
 		"nomCourt":"MIAGE",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
@@ -53904,7 +53904,7 @@
 		"niveau":"Master",
 		"nom":"Systèmes d'Information et de Connaissance",
 		"nomCourt":"SIC",
-		"années": [
+		"annees": [
 			{
 				"id_annee":"1",
 				"nom": "Master 1",
